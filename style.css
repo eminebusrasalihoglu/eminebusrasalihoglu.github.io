@@ -1,29 +1,33 @@
-body{
-    background-color: #E4CDA7;
+.flex-container{
+    
+    display: flex;
+    background-color: chartreuse;
+   
 }
-h1{
-    color: #C65D7B;
-    font-style: italic;
-    text-align: center;
-  margin:50px;
-  font-size:70px;
-}
-#div1{
-    border: 5px solid;
-  border-color:#54BAB9;
-  text-align:center;
-  background-color:#EFDAD7;
-  width:400px;
-  margin: auto;
-}
-#div2{
+.flex-item{
+    
+    background-color: brown;
+    width: 100%;
+    height: 300px;
   
-  text-align:center;
-  padding:5px;
-  background-color:#D9D7F1;
-  width: 200px;
-  margin: auto;
-  margin-top:20px;
-  border:5px solid #E7FBBE;
+}
+.flex-items{
+    
+    background-color:peru;
+    padding: 66px;
+    
   
+}
+
+.x{
+    background-color: blueviolet;
+}
+.y{
+    background-color: blue;
+}
+.z{
+    background-color:goldenrod;
+}
+.w{
+    background-color: orange;
 }
