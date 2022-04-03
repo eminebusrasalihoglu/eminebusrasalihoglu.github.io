@@ -1,1 +1,107 @@
-doldurulacak
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+h1 {
+
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-size: 70px;
+
+
+}
+
+h2 {
+    color: #4D77FF;
+    margin: 0;
+    margin-left: 50px;
+    margin-bottom: 40px;
+
+}
+
+
+#flex-container-1 {
+    display: flex;
+    padding-left: 100px;
+
+    height: 200px;
+
+
+
+
+}
+
+#flex-container-2 {
+    display: flex;
+
+
+}
+
+
+#a {
+
+    width: 65%;
+
+
+}
+
+#b {
+    width: 35%;
+
+}
+
+img {
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+
+}
+
+.ilet {
+    margin-left: 10px;
+    padding-right: 40px;
+    display: inline;
+
+
+
+}
+
+#right {
+
+    width: 50%;
+    margin-top: 90px;
+    margin-left: 150px;
+}
+
+#left {
+    width: 50%;
+
+    margin: 90px;
+    margin-left: 60px;
+}
+
+#line {
+    border-bottom: 5px solid black;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+
+p {
+    margin: 10px;
+}
+
+i {
+    color: #4D77FF;
+
+
+}
+
+a {
+    text-decoration: none;
+}
